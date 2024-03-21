@@ -107,3 +107,6 @@ Looking to get more details? Please refer to Binance API on (https://www.binance
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.<br/>
 Please make sure to update tests as appropriate.<br/>
+
+<img width="1225" alt="design" src="https://github.com/20BCE11035/CryptoTracker-main-app/assets/153983455/2abcc0d3-dac5-4853-bbdc-4dce5ebbb139">
+
